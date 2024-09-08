@@ -1,6 +1,13 @@
 Introduction
 ============
 
+This is a copy of below repos and only made changes so I can use it in my own Home Assistant integration. All the credit goes to those developers and Im using this repo only to use this in my personal Home Assistant instance.
+
+https://github.com/fuatakgun/kia_uvo - main branch
+https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api - main branch
+https://github.com/gowthamgowtham/hyundai_kia_connect_api - india branch
+
+
 This is a Kia UVO, Hyundai Bluelink, Genesis Connect(Canada Only) written in python.  It is primary consumed by home assistant.  If you are looking for a home assistant Kia / Hyundai implementation please look here: https://github.com/fuatakgun/kia_uvo.  Much of this base code came from reading bluelinky and contributions to the kia_uvo home assistant project.
 
 
